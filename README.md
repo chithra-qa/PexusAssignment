@@ -5,6 +5,8 @@ The feature file only specifies the function "type" inorder to stick to the requ
 The glue code implements more functions like type, submit, clear, select, click and check.
 These can be specified in the featureFile in the datatable format
 
+The test is implemented for Windows-Chrome. ChromeDriver executable is part of the repo.
+
 To run from commandline
 -------------------------
 Checkout the project
